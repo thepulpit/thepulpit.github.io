@@ -99,7 +99,7 @@ hr.small {
 }
 
 .Logo{
-  width: 25vw;
+  width: 300px;
 }
 a img.Logo:hover{
   cursor: pointer;
@@ -111,7 +111,8 @@ a img.Logo:hover{
 header .navbar.navbar-fixed-top.navbar-custom{
   position: fixed;
   top: 0;
-  background: #000;  
+  background: #000;
+  align-self: center;  
 }
 
 .container-fluid{
