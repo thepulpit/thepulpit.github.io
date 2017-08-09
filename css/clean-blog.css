@@ -108,7 +108,7 @@ a img.Logo:hover{
   padding: 0;
 }
 
-header .navbar.navbar-fixed-top.navbar-custom{
+.navbar.navbar-fixed-top.navbar-custom{
   position: fixed;
   top: 0;
   background: #000;
