@@ -1027,14 +1027,3 @@ $(function() {
     });
 });
 
-// Navigation Scripts to Show Header on Scroll-Up
-    $(document).on("scroll", function(){
-        if
-      ($(document).scrollTop() > 10){
-          $("header").addClass("shrink");
-        }
-        else
-        {
-            $("header").removeClass("shrink");
-        }
-    });
