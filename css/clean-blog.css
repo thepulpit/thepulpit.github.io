@@ -4,8 +4,41 @@
  * Licensed under MIT (https://spdx.org/licenses/MIT)
  */
 
+@font-face { 
+  font-family: 'Proxima Nova';
+  src: url(/fonts/proximaNova.ttf);
+}
+@font-face { 
+  font-family: 'Proxima Nova Italic';
+  src: url(/fonts/proximaNovaIt.ttf);
+}
+@font-face { 
+  font-family: 'Proxima Nova Medium';
+  src: url(/fonts/proximaNovaMd.ttf);
+}
+@font-face { 
+  font-family: 'Proxima Nova Medium Italic';
+  src: url(/fonts/proximaNovaMdIt.ttf);
+}
+@font-face { 
+  font-family: 'Proxima Nova SemiBold';
+  src: url(/fonts/proximaNovaSb.ttf);
+}
+@font-face { 
+  font-family: 'Proxima Nova SemiBold Italic';
+  src: url(/fonts/proximaNovaSbIt.ttf);
+}
+@font-face { 
+  font-family: 'Proxima Nova Bold';
+  src: url(/fonts/proximaNovaBd.ttf);
+}
+@font-face { 
+  font-family: 'Proxima Nova Bold Italic';
+  src: url(/fonts/proximaNova.ttf);
+}
+
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Proxima Nova', 'Open Sans', sans-serif;
   font-size: 20px;
   color: #404040;
 }
@@ -22,8 +55,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-family: 'Proxima Nova Bold', 'Open Sans', sans-serif;
+  font-weight: normal;
 }
 a {
   color: #404040;
@@ -53,20 +86,20 @@ hr.small {
   left: 0;
   width: 100%;
   z-index: 3;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Proxima Nova Medium', 'Open Sans', sans-serif;
 }
 .navbar-custom .navbar-brand {
-  font-weight: 800;
+  font-weight: normal;
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
   font-size: 16px;
-  font-weight: 800;
+  font-weight: normal;
   letter-spacing: 1px;
 }
 
 .Logo{
-  width: 24vw;
+  width: 25vw;
 }
 a img.Logo:hover{
   cursor: pointer;
@@ -198,8 +231,8 @@ header .navbar.navbar-fixed-top.navbar-custom{
   font-size: 24px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-family: 'Proxima Nova Medium', 'Open Sans', sans-serif;
+  font-weight: 400;
   margin: 10px 0 0;
 }
 @media only screen and (min-width: 768px) {
@@ -217,15 +250,14 @@ header .navbar.navbar-fixed-top.navbar-custom{
   display: block;
 }
 .intro-header .post-heading .subheading {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Proxima Nova Medium', 'Open Sans', sans-serif;
   font-size: 24px;
   margin: 10px 0 30px;
-  font-weight: 600;
+  font-weight: 400;
 }
 .intro-header .post-heading .meta {
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-style: italic;
-  font-weight: 300;
+  font-family: 'Proxima Nova Italic', sans-serif;
+  font-weight: 400;
   font-size: 20px;
 }
 .intro-header .post-heading .meta a {
@@ -355,10 +387,10 @@ form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
 }
 .btn {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Proxima Nova SemiBold', 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 400;
   letter-spacing: 1px;
   border-radius: 0;
   padding: 15px 25px;
@@ -378,10 +410,10 @@ form .row:first-child .floating-label-form-group {
 }
 .pager li > a,
 .pager li > span {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Proxima Nova SemiBold', 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 400;
   letter-spacing: 1px;
   padding: 10px 5px;
   background-color: white;
