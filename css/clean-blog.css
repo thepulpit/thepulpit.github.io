@@ -1,6 +1,6 @@
 /*!
- * Clean Blog v1.0.0 (http://startbootstrap.com)
- * Copyright 2015 Start Bootstrap
+ * The Pulpit v1.0.0 (http://startbootstrap.com)
+ * Copyright 2017 Start Bootstrap
  * Licensed under MIT (https://spdx.org/licenses/MIT)
  */
 
@@ -64,14 +64,49 @@ hr.small {
   font-weight: 800;
   letter-spacing: 1px;
 }
+
+.Logo{
+  width: 24vw;
+}
+a img.Logo:hover{
+  cursor: pointer;
+}
+.navbar-brand{
+  padding: 0;
+}
+
+.shrink .navbar.navbar-fixed-top.navbar-custom{
+  position: fixed;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.9);
+    -webkit-transition: -webkit-transform 0.3s;
+    -moz-transition: -moz-transform 0.3s;
+    transition: transform 0.3s;
+}
+.navbar.navbar-default.navbar-custom{
+  background-color: rgba(0, 0, 0, 0.5);
+    -webkit-transition: -webkit-transform 0.3s;
+    -moz-transition: -moz-transform 0.3s;
+    transition: transform 0.3s;
+}
+.container-fluid{
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+.container-fluid:before, .container-fluid:after{
+  display: none;
+}
+
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     background: transparent;
     border-bottom: 1px solid transparent;
+    padding: 1rem;
   }
   .navbar-custom .navbar-brand {
     color: white;
-    padding: 20px;
+
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
@@ -83,7 +118,7 @@ hr.small {
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: #E0162E;
   }
 }
 @media only screen and (min-width: 1170px) {
