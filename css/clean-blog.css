@@ -119,6 +119,7 @@ a img.Logo:hover{
   display: flex;
   justify-content: space-between;
   align-content: center;
+  max-width: 1000px;
 }
 .container-fluid:before, .container-fluid:after{
   display: none;
@@ -204,6 +205,7 @@ a img.Logo:hover{
   -o-background-size: cover;
   margin-bottom: 50px;
   margin-top: 81px;
+  min-height: 448px;
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
