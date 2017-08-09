@@ -115,7 +115,7 @@ a img.Logo:hover{
   align-self: center;  
 }
 
-.container-fluid{
+.Header{
   display: flex;
   justify-content: space-between;
   align-content: center;
