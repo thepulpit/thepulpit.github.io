@@ -5,21 +5,20 @@ description: "Breathing life into music reviews"
 
 <div class="Welcome">
 	<h1>Welcome to the Pulpit</h1>
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-	consequat.</p>
+	<p>
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+	</p>
 </div>
 
-<div class="col-xs-12 home-wrap">
-  <h2>Recent Articles</h2>
-  <div class="col-md-9" id="recent-articles-container">
+<div class="home-wrap">
+  <h1>Recent Articles</h1>
+  <div class="ThreeColumn" id="recent-articles-container">
   {% for post in site.posts limit:3 %}
-    <div class="clearfix col-xs-3 col-sm-4 article-cards recent-articles">
+    <div class="clearfix Column article-cards recent-articles">
       <a href="{{ post.url }}"><img src='{{ post.thumbnail }}' class="thumbnails"></a>
       <a class='post-link' href="{{ post.url }}">{{ post.title }}</a>
       <br>
-      <span class="meta">{{ post.categories }} </span>
+      <span class="meta">{{ post.categories }}</span>
     </div>
   {% endfor %}
   </div>

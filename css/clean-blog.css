@@ -73,6 +73,14 @@ blockquote {
   color: #808080;
   font-style: italic;
 }
+.ThreeColumn{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+.ThreeColumn .Column{
+  flex: 0 0 33.33%;
+}
 hr.small {
   max-width: 100px;
   margin: 15px auto;
@@ -119,7 +127,7 @@ a img.Logo:hover{
   display: flex;
   justify-content: space-between;
   align-content: center;
-  max-width: 1000px;
+  max-width: 1250px;
 }
 .container-fluid:before, .container-fluid:after{
   display: none;
@@ -127,6 +135,17 @@ a img.Logo:hover{
 
 .Welcome{
   text-align: center;
+}
+.home-wrap{
+  text-align: center;
+}
+.home-wrap .ThreeColumn{
+  margin-top: 2rem;
+}
+.home-wrap .article-cards img, .home-wrap .article-cards img:hover{
+  width: 100%;
+  height: auto;
+  cursor: pointer;
 }
 
 @media only screen and (min-width: 768px) {
@@ -207,7 +226,7 @@ a img.Logo:hover{
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-bottom: 50px;
+  margin-bottom: 10px;
   margin-top: 81px;
   min-height: 448px;
 }
