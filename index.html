@@ -11,12 +11,11 @@ header-img: "img/skyline.jpg"
 	</p>
 </div>
 
-<div class="home-wrap">
+<div class="home-wrap Featured">
   <h1>Featured Articles</h1>
   <div class="ThreeColumn" id="featured-articles-container">
   {% assign counter = 0 %}
   {% for post in site.posts %}
-    
     {% if post.tags contains "featured" and counter < 3 %}
     {% assign counter = counter | plus: 1 %}
     <div class="clearfix Column article-cards recent-articles">
@@ -32,14 +31,13 @@ header-img: "img/skyline.jpg"
         </div>
         <img src='{{ post.thumbnail }}' class="thumbnails"></a>
       </a>
-      <br>
-      
     </div>
     {% endif %}
   {% endfor %}
   </div>
+</div>
 
-<div class="home-wrap">
+<div class="home-wrap Recent">
   <h1>Recent Articles</h1>
   <div class="ThreeColumn" id="recent-articles-container">
   {% for post in site.posts limit:3 %}
@@ -60,4 +58,4 @@ header-img: "img/skyline.jpg"
       
     </div>
   {% endfor %}
-  </div>
+</div>
