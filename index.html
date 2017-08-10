@@ -14,8 +14,8 @@ description: "Breathing life into music reviews"
 <div class="col-xs-12 home-wrap">
   <h2>Recent Articles</h2>
   <div class="col-md-9" id="recent-articles-container">
-  {% for post in site.posts limit:6 %}
-    <div class="clearfix col-xs-6 col-sm-4 article-cards recent-articles">
+  {% for post in site.posts limit:3 %}
+    <div class="clearfix col-xs-3 col-sm-4 article-cards recent-articles">
       <a href="{{ post.url }}"><img src='{{ post.thumbnail }}' class="thumbnails"></a>
       <a class='post-link' href="{{ post.url }}">{{ post.title }}</a>
       <br>
