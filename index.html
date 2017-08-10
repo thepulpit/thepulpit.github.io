@@ -18,14 +18,18 @@ header-img: "img/skyline.jpg"
     <div class="clearfix Column article-cards recent-articles">
       <a class='post-link' href="{{ post.url }}">
         <div class="article-caption">
-          <div class="caption-content">
-            <h4>{{ post.title }}</h4>
+          <div class="holder">
+            <div class="caption-content">
+              <h4>{{ post.title }}</h4>
+              <p>&nbsp;</p>
+              <i>{{ post.categories }}</i>
+            </div>
           </div>
         </div>
         <img src='{{ post.thumbnail }}' class="thumbnails"></a>
       </a>
       <br>
-      <span class="meta">{{ post.categories }}</span>
+      
     </div>
   {% endfor %}
   </div>

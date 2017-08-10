@@ -174,19 +174,30 @@ a img.Logo:hover{
   position: relative;
   line-height: 0;
 }
-
-.caption-content{
-  position: absolute;
+.holder{
+  position: relative;
+  height: 100%;
   width: 100%;
-  height: 20px;
+  display: flex;
+  align-content: center;
+}
+.caption-content{
+  position: relative;
+  margin: auto;
+  width: 100%;
+  
   text-align: center;
-  top: 25%;
+  
   color: white;
+  padding: 0 1.5rem;
 }
 .caption-content h4{
   font-size:24px;
 }
-
+.caption-content p{
+  margin: 0;
+  line-height: 0.75;
+}
 @media (min-width: 1300px){
   .container{
     width: 1270px;
