@@ -12,6 +12,31 @@ header-img: "img/skyline.jpg"
 </div>
 
 <div class="home-wrap">
+  <h1>Featured Articles</h1>
+  <div class="ThreeColumn" id="featured-articles-container">
+  {% for post in site.posts %}
+    {% if post.tags contains "featured" %}
+    <div class="clearfix Column article-cards recent-articles">
+      <a class='post-link' href="{{ post.url }}">
+        <div class="article-caption">
+          <div class="holder">
+            <div class="caption-content">
+              <h4>{{ post.title }}</h4>
+              <p>&nbsp;</p>
+              <i>{{ post.categories }}</i>
+            </div>
+          </div>
+        </div>
+        <img src='{{ post.thumbnail }}' class="thumbnails"></a>
+      </a>
+      <br>
+      
+    </div>
+    {% endif %}
+  {% endfor %}
+  </div>
+
+<div class="home-wrap">
   <h1>Recent Articles</h1>
   <div class="ThreeColumn" id="recent-articles-container">
   {% for post in site.posts limit:3 %}
