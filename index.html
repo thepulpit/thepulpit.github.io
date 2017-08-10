@@ -14,8 +14,11 @@ header-img: "img/skyline.jpg"
 <div class="home-wrap">
   <h1>Featured Articles</h1>
   <div class="ThreeColumn" id="featured-articles-container">
+  {% assign counter = 0 %}
   {% for post in site.posts %}
-    {% if post.tags contains "featured" %}
+    
+    {% if post.tags contains "featured" and counter < 3 %}
+    {% assign counter = counter | plus: 1 %}
     <div class="clearfix Column article-cards recent-articles">
       <a class='post-link' href="{{ post.url }}">
         <div class="article-caption">
