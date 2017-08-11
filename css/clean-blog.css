@@ -40,7 +40,8 @@
 body {
   font-family: 'Proxima Nova', 'Open Sans', sans-serif;
   font-size: 20px;
-  color: #404040;
+  color: #181818;
+  background: #F2F4F4;
 }
 b, strong{
   font-weight: 400;
@@ -56,7 +57,9 @@ p {
   margin: 30px 0;
 }
 p a {
-  text-decoration: underline;
+  text-decoration: none;
+    font-family: "Proxima Nova Bold", sans-serif;
+    font-weight: 400;
 }
 h1{
   font-size: 42px;
@@ -71,11 +74,13 @@ h6 {
   font-weight: normal;
 }
 a {
-  color: #404040;
+  color: #181818;
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #E0162E;
+  text-decoration: none;
+    
 }
 a img:hover,
 a img:focus {
@@ -96,10 +101,10 @@ hr.small {
   max-width: 100px;
   margin: 15px auto;
   border-width: 4px;
-  border-color: white;
+  border-color: #f2f4f4;
 }
 .navbar-custom {
-  background: white;
+  background: #f2f4f4;
   position: absolute;
   top: 0;
   left: 0;
@@ -130,7 +135,7 @@ a img.Logo:hover{
 .navbar.navbar-fixed-top.navbar-custom{
   position: fixed;
   top: 0;
-  background: #000;
+  background: #181818;
   align-self: center;
   opacity: 1; 
 }
@@ -190,7 +195,7 @@ a img.Logo:hover{
   
   text-align: center;
   
-  color: white;
+  color: #f2f4f4;
   padding: 0 1.5rem;
 }
 .caption-content h4{
@@ -213,7 +218,7 @@ a img.Logo:hover{
     padding: 1rem;
   }
   .navbar-custom .navbar-brand {
-    color: white;
+    color: #f2f4f4;
 
   }
   .navbar-custom .navbar-brand:hover,
@@ -221,7 +226,7 @@ a img.Logo:hover{
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: white;
+    color: #f2f4f4;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
@@ -292,7 +297,7 @@ a img.Logo:hover{
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 100px 0 50px;
-  color: white;
+  color: #f2f4f4;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
@@ -345,7 +350,7 @@ a img.Logo:hover{
   font-size: 20px;
 }
 .intro-header .post-heading .meta a {
-  color: white;
+  color: #f2f4f4;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
@@ -487,7 +492,7 @@ form .row:first-child .floating-label-form-group {
 .btn-default:focus {
   background-color: #0085a1;
   border: 1px solid #0085a1;
-  color: white;
+  color: #f2f4f4;
 }
 .pager {
   margin: 20px 0 0;
@@ -500,7 +505,7 @@ form .row:first-child .floating-label-form-group {
   font-weight: 400;
   letter-spacing: 1px;
   padding: 10px 5px;
-  background-color: white;
+  background-color: #f2f4f4;
   border-radius: 0;
 }
 @media only screen and (min-width: 768px) {
@@ -512,7 +517,7 @@ form .row:first-child .floating-label-form-group {
 }
 .pager li > a:hover,
 .pager li > a:focus {
-  color: white;
+  color: #f2f4f4;
   background-color: #0085a1;
   border: 1px solid #0085a1;
 }
@@ -525,21 +530,21 @@ form .row:first-child .floating-label-form-group {
   cursor: not-allowed;
 }
 ::-moz-selection {
-  color: white;
+  color: #f2f4f4;
   text-shadow: none;
   background: #E0162E;
 }
 ::selection {
-  color: white;
+  color: #f2f4f4;
   text-shadow: none;
   background: #E0162E;
 }
 img::selection {
-  color: white;
+  color: #f2f4f4;
   background: transparent;
 }
 img::-moz-selection {
-  color: white;
+  color: #f2f4f4;
   background: transparent;
 }
 body {
