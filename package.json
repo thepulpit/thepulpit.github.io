@@ -1,9 +1,9 @@
 {
-    "name": "clean-blog",
+    "name": "the-pulpit",
     "title": "The Pulpit",
     "version": "1.0.0",
-    "homepage": "http://startbootstrap.com",
-    "author": "Start Bootstrap",
+    "homepage": "http://thepulpit.github.io",
+    "author": "The Pulpit",
     "license": "MIT",
     "devDependencies": {
         "grunt": "^0.4.5",
@@ -16,6 +16,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll.git"
+        "url": "https://github.com/thepulpit/thepulpit.github.io.git"
     }
 }
