@@ -226,7 +226,7 @@ a img.Logo:hover{
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: #f2f4f4;
+    color: #fff;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
@@ -491,7 +491,7 @@ form .row:first-child .floating-label-form-group {
 .btn-default:focus {
   background-color: #E0162E;
   border: 1px solid #E0162E;
-  color: #f2f4f4;
+  color: #fff;
 }
 .pager {
   margin: 20px 0 0;
