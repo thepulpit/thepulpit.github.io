@@ -109,10 +109,11 @@ blockquote p {
 .ThreeColumn{
   display: flex;
   width: 100%;
-  justify-content: center;
+  justify-content: space-between;
 }
 .ThreeColumn .Column{
-  flex: 0 0 33.33%;
+  flex: 0 0 30%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 hr.small {
   max-width: 100px;
