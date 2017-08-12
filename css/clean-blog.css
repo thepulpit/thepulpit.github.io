@@ -80,7 +80,7 @@ a:hover,
 a:focus {
   color: #E0162E;
   text-decoration: none;
-    
+  cursor: pointer;
 }
 a img:hover,
 a img:focus {
@@ -487,7 +487,7 @@ footer .copyright {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #E0162E;
+  color: #181818;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #ccc;
