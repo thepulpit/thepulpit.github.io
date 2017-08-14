@@ -17,5 +17,8 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/thepulpit/thepulpit.github.io.git"
+    },
+    "dependencies": {
+        "lunr": "^2.1.2"
     }
 }
