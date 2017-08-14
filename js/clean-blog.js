@@ -9,6 +9,8 @@ $(function() {
     $("[data-toggle='tooltip']").tooltip();
 });
 
+
+
 // Contact Form Scripts
 
 $(function() {
@@ -143,7 +145,8 @@ $('#name').focus(function() {
                             warningsFound++;
                         }
                     });
-
+                    
+                    
                     $inputs.trigger("validationLostFocus.validation");
 
                     if (warningsFound) {
@@ -1026,4 +1029,6 @@ $(function() {
         $(this).removeClass("floating-label-form-group-with-focus");
     });
 });
+
+
 

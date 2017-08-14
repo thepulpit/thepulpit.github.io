@@ -106,6 +106,10 @@ blockquote p {
   display: inline;
 
 }
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+    background: #181818;
+    color: #E0162E;
+}
 .ThreeColumn{
   display: flex;
   width: 100%;
