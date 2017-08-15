@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: blog
 ---
-
-<div class="blog list">
-    <h1>Filed Under <small>{{ page.tag }}</small></h1>
-
+            {{ content }}
+        </ul>
+    </div>
+</div>
+<div class="Column Posts ThreeColumn">
     {% for post in site.categories[page.tag] %}
         {% include postPreview.html %}
     {% endfor %}
-</div>

@@ -1,26 +1,21 @@
 ---
 layout: default
 ---
-<div class="Listing-Page No-BG">
-    <div class="Listing-Column">
-        <div class="Column Local-Nav">
-            <form action="/search" method="get">
-              <label for="search-box">Search</label>
-              <input type="text" id="search-box" name="query">
-              <input type="submit" value="search">
-            </form>
-            <ul class="Categories">
-                <li><a href="/blog">All</a></li>
-                <li><a href="/category/albums">Albums</a></li>
-                <li><a href="/category/artists">Artists</a></li>
-                <li><a href="/category/albums">Songs</a></li>
-                <li><a href="/category/thoughts">Thoughts</a></li>
-            </ul>
-        </div>
-        <div class="Column Posts ThreeColumn">
-            {% for post in site.posts %}
-                {% include postPreview.html %}
-            {% endfor %}
+<div class="No-BG Blogport">
+    <h1 class="Page-Title">Blog</h1>
+    <div class="Listing-Page">
+
+        <div class="Column">
+            <div class="Local-Nav">
+                <form action="/search" method="get" class="search">
+                  <input type="text" id="search-box" name="query">
+                  <button type="submit" value="search" aria-hidden="true">
+                      <i class="fa fa-search"></i>
+                  </button>
+                </form>
+                <h2>Categories</h2>
+                <ul class="Categories">
+                    {{ content }}
         </div>
     </div>
 </div>

@@ -218,6 +218,9 @@ a img.Logo:hover{
 .card-container {
     padding: 2px 16px;
 }
+.card h4, .card p{
+    color: #181818!important;
+}
 .Posts{
     flex-wrap: wrap;
 }
@@ -225,7 +228,67 @@ a img.Logo:hover{
     flex: 0 0 32.5%;
     margin-bottom: 1rem;
 }
-
+.Listing-Page{
+    display: flex;
+    justify-content: space-between;
+}
+.Blogport{
+    margin: 0 auto;
+    padding-top: 1rem;
+    max-width: 1270px;
+    
+}
+.Page-Title{
+    font-size: 80px;
+    margin-top: 0;
+}
+.Listing-Page .Local-Nav{
+    flex: 0 0 29.9%;   
+}
+.Local-Nav ul li{
+    list-style: none;
+    
+}
+.Categories{
+    padding: 0;
+}
+.Categories .active{
+    color: #E0162E;
+}
+.Local-Nav{
+    background: #181818;
+    color: #fff;
+    padding: 1.5rem;
+}
+.Local-Nav ul li a{
+    color: #fff;
+}
+.search{
+    position: relative;
+}
+.search input{
+    color: #181818;
+}
+:focus {
+    outline: rgba(238,119,105,.2) auto 5px;
+}
+.search button{
+    position: absolute;
+    right: 0;
+    top: 0;
+    border: none;
+    background: none;
+    color: #181818;
+}
+.search button:focus{
+    outline: none;
+}
+.Listing-Page .Posts{
+    flex: 0 0 70%;
+}
+.Local-Nav a:hover, .Local-Nav button:hover{
+    color: #E0162E;
+}
 .holder{
   position: relative;
   height: 100%;
