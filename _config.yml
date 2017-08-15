@@ -14,6 +14,19 @@ email_username:  author@theplpt.com
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
 # google_tracking_id:
 
+#category stuff
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
+
 # Build settings
 markdown: kramdown
 highlighter: rouge

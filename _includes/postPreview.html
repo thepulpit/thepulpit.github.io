@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<div class="card">
+  <img src='{% if post.thumbnail %}{{ post.thumbnail }}{% else %}{{ '/img/p.png' }}{% endif %}' class="thumbnails" {% if post.thumbnail %}{% else %} style="margin-top: 10%"{% endif %}>
+  <div class="container">
+    <h4><b>{{ post.title }}</b></h4> 
+    <p>{{ post.description }}r</p> 
+  </div>
+</div>

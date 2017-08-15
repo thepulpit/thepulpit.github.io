@@ -1,7 +1,6 @@
 ---
 layout: page
-description: "Breathing life into music reviews"
-header-img: "img/skyline.jpg"
+header-img: "img/birdseye.jpg"
 ---
 
 <div class="Welcome">
@@ -16,7 +15,7 @@ header-img: "img/skyline.jpg"
   <div class="ThreeColumn" id="featured-articles-container">
   {% assign counter = 0 %}
   {% for post in site.posts %}
-    {% if post.tags contains "featured" and counter < 3 %}
+    {% if post.group contains "featured" and counter < 3 %}
     {% assign counter = counter | plus: 1 %}
     <div class="clearfix Column article-cards recent-articles">
       <a class='post-link' href="{{ post.url }}">
@@ -29,7 +28,7 @@ header-img: "img/skyline.jpg"
             </div>
           </div>
         </div>
-        <img src='{{ post.thumbnail }}' class="thumbnails"></a>
+        <img src='{% if post.thumbnail %}{{ post.thumbnail }}{% else %}{{ '/img/p.png' }}{% endif %}' class="thumbnails" {% if post.thumbnail %}{% else %} style="margin-top: 10%"{% endif %}></a>
       </a>
     </div>
     {% endif %}
@@ -52,7 +51,7 @@ header-img: "img/skyline.jpg"
             </div>
           </div>
         </div>
-        <img src='{{ post.thumbnail }}' class="thumbnails"></a>
+        <img src='{% if post.thumbnail %}{{ post.thumbnail }}{% else %}{{ '/img/p.png' }}{% endif %}' class="thumbnails" {% if post.thumbnail %}{% else %} style="margin-top: 10%"{% endif %}></a>
       </a>
       <br>
       

@@ -312,7 +312,10 @@ a img.Logo:hover{
   background-size: cover;
   -o-background-size: cover;
   margin-bottom: 10px;
-  margin-top: 81px;
+
+}
+.No-BG, .intro-header{
+      margin-top: 81px;
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
