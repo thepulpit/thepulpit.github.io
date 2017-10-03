@@ -34,4 +34,12 @@ permalink: pretty
 
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-plugins: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-paginate-multiple]
+
+paginate_multiple:
+  - paginate: 1
+    paginate_path: '/blog/page:num/'
+    sub_dir: '/blog'
+  - paginate: 1
+    paginate_path: '/blog/category/albums/page:num/'
+    sub_dir: '/blog/category/albums'

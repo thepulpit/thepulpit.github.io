@@ -236,6 +236,7 @@ a img.Logo:hover{
     margin: 0 auto;
     padding-top: 1rem;
     max-width: 1270px;
+    padding: 0 1.5rem;
     
 }
 .Page-Title{
@@ -266,6 +267,14 @@ a img.Logo:hover{
 .search{
     position: relative;
 }
+.search .No-BG {
+    padding: 0 1.5rem;
+    display: flex;
+    padding-top: 2rem;
+}
+.search .Listing-Page{
+  flex: 0 0 29.9%;
+}
 .search input{
     color: #181818;
 }
@@ -279,6 +288,24 @@ a img.Logo:hover{
     border: none;
     background: none;
     color: #181818;
+}
+.search form{
+  position: relative;
+  margin-bottom: 1rem;
+}
+.search .Local-Nav input{
+  width: 100%;
+}
+.search .Local-Nav button{
+  bottom: 0;
+  top: inherit;
+}
+.search ul#search-results li{
+  list-style: none;
+
+}
+.search ul#search-results li p{
+  margin: 10px 0;
 }
 .search button:focus{
     outline: none;
@@ -312,6 +339,14 @@ a img.Logo:hover{
 .caption-content p{
   margin: 0;
   line-height: 0.75;
+}
+@media (max-width: 900px){
+  nav .nav.navbar-nav:not(.navbar-right){
+    max-width: 360px;
+  }
+  nav .nav.navbar-nav li{
+    float: right;
+  }
 }
 @media (min-width: 1300px){
   .container{
@@ -623,6 +658,30 @@ form .row:first-child .floating-label-form-group {
   .pager li > span {
     font-size: 14px;
     padding: 15px 25px;
+  }
+
+}
+@media only screen and (max-width: 768px){
+    .Header{
+    padding: 1.5rem;
+    flex-wrap: wrap;
+  }
+  .Header .Logo{
+    width: 225px;
+  }
+  .Header .navbar-header{
+    width: 100%;
+  }
+  .navbar-collapse{
+    flex: 0 0 100%;
+  }
+  .Header .navbar-collapse{
+    border: none;
+    box-shadow: none;
+  }
+  .Header .navbar-collapse ul li{
+    display: block;
+    margin: auto;
   }
 }
 .pager li > a:hover,
