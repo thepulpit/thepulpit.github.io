@@ -662,7 +662,7 @@ form .row:first-child .floating-label-form-group {
 
 }
 @media only screen and (max-width: 768px){
-    .Header{
+  .Header{
     padding: 1.5rem;
     flex-wrap: wrap;
   }
@@ -682,6 +682,9 @@ form .row:first-child .floating-label-form-group {
   .Header .navbar-collapse ul li{
     display: block;
     margin: auto;
+  }
+  .Header .navbar-toggle{
+    margin-right: 0;
   }
 }
 .pager li > a:hover,
