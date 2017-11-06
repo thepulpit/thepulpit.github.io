@@ -1,11 +1,12 @@
 ---
 header-img: 'https://s3.amazonaws.com/ssglobalcdn/performers/wide/jhene-aiko.jpg'
 layout: post
-date: 2017-11-5T12:00:00.000Z
+date: {}
 subtitle: A deep dive into the mind of Jhené Aiko
 categories: albums
 thumbnail-img: >-
   https://upload.wikimedia.org/wikipedia/en/b/b9/Trip_by_Jhen%C3%A9_Aiko_cover.jpg
+published: true
 ---
 ## Jhené Aiko- Trip
 
