@@ -1,14 +1,12 @@
 ---
-header-img: 'https://s3.amazonaws.com/ssglobalcdn/performers/wide/jhene-aiko.jpg'
+header-img: "img/jhene-aiko.jpg"
 layout: post
-date: 2017-11-05 12:00:00
+date: 2017-11-05
 subtitle: A deep dive into the mind of Jhené Aiko
 categories: albums
-thumbnail-img: >-
-  https://upload.wikimedia.org/wikipedia/en/b/b9/Trip_by_Jhen%C3%A9_Aiko_cover.jpg
-published: true
+thumbnail: "/img/thumbnail/trip_cover.png"
 ---
-## Jhené Aiko- Trip
+## Jhené Aiko - Trip
 
 <p>Realness is a difficult commodity to quantify in music. Yes, artists draw on life experiences to create their music and yes, emotion often shines through on certain tracks, but how much of it is contrived? How much of the person behind the artistic façade are we really getting when we hear a body of work? Jhené Aiko’s latest release Trip is a projects where the artist and the person become one and the authenticity of the work is never in doubt. Released as an album, short film and book of poety, Trip is the culmination of three years of recording. and five years of writing, traveling, rumination and turbulent emotion following the death of her brother Miyagi in 2012.</p> 
 
