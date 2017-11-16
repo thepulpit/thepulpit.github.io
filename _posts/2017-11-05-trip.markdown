@@ -1,7 +1,7 @@
 ---
 header-img: 'https://s3.amazonaws.com/ssglobalcdn/performers/wide/jhene-aiko.jpg'
 layout: post
-date: {}
+date: 2017-11-05 12:00:00
 subtitle: A deep dive into the mind of Jhené Aiko
 categories: albums
 thumbnail-img: >-
