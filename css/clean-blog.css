@@ -686,6 +686,24 @@ form .row:first-child .floating-label-form-group {
   .Header .navbar-toggle{
     margin-right: 0;
   }
+  .ThreeColumn{
+    flex-direction: column;
+  }
+  .ThreeColumn .Column{
+    margin-bottom: 1rem;
+  }
+  .ThreeColumn .Column .article-caption{
+    opacity: 0.9;
+  }
+  .Listing-Page{
+    display: block;
+  }
+  .Local-Nav{
+    margin-bottom: 1.5rem;
+  }
+  .search .No-BG{
+    display: block;
+  }
 }
 .pager li > a:hover,
 .pager li > a:focus {
