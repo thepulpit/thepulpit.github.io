@@ -244,7 +244,8 @@ a img.Logo:hover{
     margin-top: 0;
 }
 .Listing-Page .Local-Nav{
-    flex: 0 0 29.9%;   
+    flex: 0 0 29%; 
+    margin-right: 0.6rem;  
 }
 .Local-Nav ul li{
     list-style: none;
@@ -266,6 +267,10 @@ a img.Logo:hover{
 }
 .search{
     position: relative;
+
+}
+form.search {
+  max-width: 216px;
 }
 .search .No-BG {
     padding: 0 1.5rem;
@@ -311,7 +316,7 @@ a img.Logo:hover{
     outline: none;
 }
 .Listing-Page .Posts{
-    flex: 0 0 70%;
+    flex: 0 0 67%;
 }
 .Local-Nav a:hover, .Local-Nav button:hover{
     color: #E0162E;
@@ -661,7 +666,10 @@ form .row:first-child .floating-label-form-group {
   }
 
 }
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 767px){
+  ul#search-results{
+    padding-left: 0;
+  }
   .Header{
     padding: 1.5rem;
     flex-wrap: wrap;
