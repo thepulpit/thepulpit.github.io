@@ -1,11 +1,11 @@
 ---
 published: false
-header-img: >-
-  http://blog.a3cfestival.com/hs-fs/hubfs/hoodrich-pablo-juan.jpg?t=1509716535100&width=1024&name=hoodrich-pablo-juan.jpg
+header-img: img/southdarkheader.png
 layout: post
-date: {}
+date: 2017-11-08T00:00:00.000Z
 subtitle: A unexpected collab yields some quality cuts
 categories: albums
+thumbnail: /img/thumbnail/southdarktumb.jpg
 ---
 ## Hoodrich Pablo Juan - South Dark
 
