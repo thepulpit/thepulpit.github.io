@@ -5,7 +5,7 @@ layout: post
 date: 2017-12-31T00:00:00.000Z
 subtitle: A unexpected collab yields some quality cuts
 categories: albums
-thumbnail: /img/thumbnail/southdarktumb.jpg
+thumbnail: /img/thumbnail/southdarkthumb.jpg
 ---
 ## Hoodrich Pablo Juan - South Dark
 
