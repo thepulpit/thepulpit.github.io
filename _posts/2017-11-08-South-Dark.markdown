@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 header-img: img/southdarkheader.png
 layout: post
-date: 2017-11-08T00:00:00.000Z
+date: {}
 subtitle: A unexpected collab yields some quality cuts
 categories: albums
 thumbnail: /img/thumbnail/southdarktumb.jpg
