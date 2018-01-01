@@ -3,11 +3,13 @@ published: true
 header-img: img/southdarkheader.png
 layout: post
 date: 2017-12-31T00:00:00.000Z
+title: Hoodrich Pablo Juan - South Dark
+group: featured
 subtitle: A unexpected collab yields some quality cuts
 categories: albums
 thumbnail: /img/thumbnail/southdarkthumb.jpg
 ---
-## Hoodrich Pablo Juan - South Dark
+
 
 <p>This is a project I’ve had in my personal rotation for a while, but postponed a proper write-up until now. At first blush, you wouldn’t think there’s much to be had here; Hoodrich Pablo Juan, eternally linked with ATL trap scene and the members of Migos while never quite escaping their shadow, and Kenny Beats, a relatively unknown producer who’s most notable production credit to this point came on a throw-away ScHoolboy Q song from 2012. The unlikely pair dropped South Dark; a quick 7-track mixtape with some cheeky cover art, a meh title, and surprisingly high replay value.</p> 
 

@@ -6,6 +6,7 @@ date: 2017-12-31T00:00:00.000Z
 title: Suburban Destinesia - Jelani Aryeh
 subtitle: The 17-year-old skillfully fuses genres on his first project
 categories: albums
+group: featured
 thumbnail: /img/thumbnail/suburbanthumb.jpg
 ---
 <p>Hoping to follow in the mold of fellow suburb rappers Childish Gambino and Kid Cudi (both mentioned as inspirations), 17-year old Jelani Aryeh dropped the Suburban Destinesia EP back in June. Aryeh hails from the suburbs of San Diego and is part of the Raised By The Internet collective, a group that met online in a fan forum for a group that also met on a fan forum (BROCKHAMPTON). Everything you need to know about Aryeh (for now) can be found in an interview he did with Pigeons and Planes back in July. His quote about looking up the meaning of “destinisea” on Urban Dictionary illustrates how much of an internet child Aryeh is, another one in wave of teenage artists that are pushing pop, hip-hop and R&B in new directions.</p>
