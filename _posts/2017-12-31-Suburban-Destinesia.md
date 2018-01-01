@@ -1,6 +1,6 @@
 ---
 published: true
-header-img: img/jelaniAheader.png
+header-img: img/jelaniARheader.jpg
 layout: post
 date: 2017-12-31T00:00:00.000Z
 title: Suburban Destinesia - Jelani Aryeh
