@@ -1,12 +1,12 @@
 ---
 published: true
-header-img: img/xxlheader.jpeg
+header-img: img/xxlHeader.jpg
 layout: post
-date: {}
+date: 2018-01-02T00:00:00.000Z
 group: featured
 subtitle: Taking a look at where the 2017 class stands
 categories: thoughts
-thumbnail: /img/thumbnail/xxlogo.png
+thumbnail: /img/thumbnail/xxlthumb.jpg
 title: XXL Freshman 2017 Updated
 ---
 <p>_Author's Note: I wrote this back in June after the XXL Freshman list came out. I know it's stale, but I updated my reactions knowing what we do know about these artists. Offering it up as a change of pace from the reviews. Enjoy!_</p>
