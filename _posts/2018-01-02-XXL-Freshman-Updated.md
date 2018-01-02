@@ -2,7 +2,7 @@
 published: true
 header-img: img/xxlheader.jpeg
 layout: post
-date: 2018-01-02T00:00:00.000Z
+date: {}
 group: featured
 subtitle: Taking a look at where the 2017 class stands
 categories: thoughts
