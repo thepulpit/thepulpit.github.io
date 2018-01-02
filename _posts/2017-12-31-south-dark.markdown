@@ -2,7 +2,7 @@
 published: true
 header-img: img/southdarkheader.png
 layout: post
-date: 2017-12-31T00:00:00.000Z
+date: {}
 title: Hoodrich Pablo Juan - South Dark
 group: featured
 subtitle: A unexpected collab yields some quality cuts
