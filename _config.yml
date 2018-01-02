@@ -12,7 +12,7 @@ email_username:  theplpt@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
+google_tracking_id: UA-111738164-1
 
 #category stuff
 collections:
