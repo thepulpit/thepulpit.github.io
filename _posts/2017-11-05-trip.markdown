@@ -1,12 +1,13 @@
 ---
-header-img: "img/jhene-aiko.jpg"
+header-img: img/jhene-aiko.jpg
 layout: post
-date: 2017-11-05
-title: Jhené Aiko - Trip
+date: {}
+title: Trip- Jhené Aiko
 subtitle: A deep dive into the mind of Jhené Aiko
 categories: albums
-thumbnail: "/img/thumbnail/trip_cover.png"
+thumbnail: /img/thumbnail/trip_cover.png
 group: featured
+published: true
 ---
 
 
