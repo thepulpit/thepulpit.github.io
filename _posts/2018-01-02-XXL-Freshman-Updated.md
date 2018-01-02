@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 header-img: img/xxlheader.jpeg
 layout: post
 date: 2017-01-02T00:00:00.000Z
@@ -73,4 +73,3 @@ thumbnail: /img/thumbnail/xxlogo.png
 <p>Update: “Pick It Up” was the big hit for Dex, and the feature on _Still Striving_ was also a big moment. He just dropped a mixtape, but hopefully a polished album is still on the way. Dex’s case is as strong as ever.</p>
 
 <p>There we have it, another XXL list in the books. I will salute XXL for performing this very important function for the hip-hop community. It has more importance than many people want to admit, and I don’t see anybody else stepping up to compile a similar list to give young artists that kind of shine. So thank you XXL, keep doing what you do. Until next year…</p>
-
