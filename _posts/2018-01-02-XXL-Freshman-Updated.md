@@ -2,7 +2,7 @@
 published: true
 header-img: img/xxlHeader.jpg
 layout: post
-date: 2018-01-02
+date: 2018-01-02T00:00:00.000Z
 group: featured
 subtitle: Taking a look at where the 2017 class stands
 categories: thoughts
@@ -18,7 +18,6 @@ title: XXL Freshman 2017 Updated
 <p><strong>Update:</strong> We got the tape, instead titled <em>Before I Wake</em>, and it delivered, making it onto several 2017 wrap-up lists under &ldquo;best albums.&rdquo; She too stays.</p>
 <p><strong>Madeintyo-&nbsp;</strong>&ldquo;Uber Everywhere&rdquo; was a smash, but Madeintyo hasn&rsquo;t stopped working since his first big hit. He followed that with &ldquo;I Want&rdquo; and &ldquo;Skateboard P,&rdquo; and has dropped off a mixtape, a beat tape, and a collab tape with his brother 24hrs in the last year. Even before then, he had several projects up on SoundCloud and dozens of tracks with over a million plays. He shares excellent chemistry with producer K Swisha, who cooks up trap-tinged beats for Madeintyo&rsquo;s tidy bars that are strong enough to keep you listening. He seems to have a knack for hit-making, and it will be interesting to see how he handles his first album/major project release.</p>
 <p><strong>Update: </strong>His <em>True&rsquo;s World </em>mixtape was underwhelming, as were the singles intermittently released during the second half of the year. The formula is getting a little stale, but flashes like the song &ldquo;MADEINBOOMIN&rdquo; offer some hope. He slides to &ldquo;Solid Choices.&rdquo;</p>
-<p><strong style="font-style: inherit;">&nbsp;</strong></p>
 <p><strong>SOLID CHOICES</strong></p>
 <p><strong>Amin&eacute;-&nbsp;</strong>I can feel myself coming around on this guy, but I just need to spend a little more time with his music. I thought&nbsp;&ldquo;Caroline&rdquo; would be it from Amin&eacute;, but his subsequent singles have been strong, culminating in the &ldquo;Heebiejeebies&rdquo; collab with Kehlani. A quick run through his most recent full project&nbsp;<em style="font-weight: inherit;">Calling Brio</em>&nbsp;from the pre-Caroline days reveals an artist who makes upbeat, eccentric music that gives off nothing but good vibes. He has collaborated repeatedly with Kaytranada, which is a strong positive indicator of Amin&eacute;&rsquo;s stylistic tastes. He has all the pieces in place to firmly establish himself in the music landscape.</p>
 <p><strong>Update: </strong>I initially liked his debut <em>Good For Your, </em>but found it unbearably corny after repeated listens. He can make good music, but the shtick could get old quickly. He remains here.</p>
