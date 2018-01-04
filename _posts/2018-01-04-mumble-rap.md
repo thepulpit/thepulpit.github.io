@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 header-img: img/bellyheader.jpg
 layout: post
-date: 2018-01-04T00:00:00.000Z
+date: {}
 title: Belly - Mumble Rap
 subtitle: The skilled songwriter steps to the mic for some impressive bars
 categories: albums
