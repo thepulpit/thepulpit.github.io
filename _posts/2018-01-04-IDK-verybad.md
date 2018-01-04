@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 header-img: img/IDKheader.jpg
 layout: post
-date: 2018-01-04T00:00:00.000Z
+date: {}
 group: featured
 subtitle: The Maryland spitter comes through with one of 2017's best
 categories: albums
