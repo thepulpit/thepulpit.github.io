@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 header-img: img/linesheader.jpg
 layout: post
 date: 2017-1-04
