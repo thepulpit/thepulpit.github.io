@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 header-img: img/linesheader.jpg
 layout: post
-date: 2017-01-04T00:00:00.000Z
+date: {}
 title: Allan Kingdom - LINES
 subtitle: He of "All Day" fame stays consistently cool on new project
 categories: albums
