@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 header-img: img/cosmoheader.jpg
 layout: post
-date: 2018-01-04T00:00:00.000Z
+date: {}
 title: Cosmo Pyke - Just Cosmo
 subtitle: The young Brit struggles with the problems of youth
 categories: albums
