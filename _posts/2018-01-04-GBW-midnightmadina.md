@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 header-img: img/mmheader2.jpg
 layout: post
-date: 2017-01-04T00:00:00.000Z
+date: {}
 title: GodBodyWati - Midnight Madina
 subtitle: Surprising consistency from a relative unknown
 categories: albums
