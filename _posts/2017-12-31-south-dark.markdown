@@ -2,15 +2,16 @@
 published: true
 header-img: img/southdarkheader.png
 layout: post
-date: 2017-12-31T00:00:00.000Z
+date: {}
 title: Hoodrich Pablo Juan - South Dark
 group: featured
 subtitle: A unexpected collab yields some quality cuts
 categories: albums
 thumbnail: /img/thumbnail/southdarkthumb.jpg
 ---
-
-
+<p class="p1"><em>Photo via The Fader</em></p>
+<p class="p1">&nbsp;</p>
+<p class="p1">&nbsp;</p>
 <p>This is a project I’ve had in my personal rotation for a while, but postponed a proper write-up until now. At first blush, you wouldn’t think there’s much to be had here; Hoodrich Pablo Juan, eternally linked with ATL trap scene and the members of Migos while never quite escaping their shadow, and Kenny Beats, a relatively unknown producer who’s most notable production credit to this point came on a throw-away ScHoolboy Q song from 2012. The unlikely pair dropped South Dark; a quick 7-track mixtape with some cheeky cover art, a meh title, and surprisingly high replay value.</p> 
 
 <p>South Dark benefits greatly from the surprising chemistry between artist and producer. Opener “Dead End” is the standout for me, and Hoodrich wastes no time going in over some odd yet catchy synths that flutter along behind a powerful bassline and an active, interesting drum kit. Hoodrich does his part, punching the gas from chorus to verse back to chorus. He’s not trying to do too much on the mic, instead rapping about the things he knows best; designer clothes, doing drugs, getting money, the usual. His voice is measured, controlled, but not distant or lazy. I really enjoy his flow; it manages to be effortlessly cool while seasoning certain words with a distinctive Southern flair (like “Behhhhnz”). He’s clearly locked in, and the result is a surprisingly engaging track that I wish was gifted an extra verse.</p>
