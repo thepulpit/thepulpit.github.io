@@ -9,6 +9,9 @@ categories: albums
 group: featured
 thumbnail: /img/thumbnail/suburbanthumb.jpg
 ---
+<p class="p1"><em>Photo via HumanHuman</em></p>
+<p class="p1">&nbsp;</p>
+<p class="p1">&nbsp;</p>
 <p>Hoping to follow in the mold of fellow suburb rappers Childish Gambino and Kid Cudi (both mentioned as inspirations), 17-year old Jelani Aryeh dropped the Suburban Destinesia EP back in June. Aryeh hails from the suburbs of San Diego and is part of the Raised By The Internet collective, a group that met online in a fan forum for a group that also met on a fan forum (BROCKHAMPTON). Everything you need to know about Aryeh (for now) can be found in an interview he did with Pigeons and Planes back in July. His quote about looking up the meaning of “destinisea” on Urban Dictionary illustrates how much of an internet child Aryeh is, another one in wave of teenage artists that are pushing pop, hip-hop and R&B in new directions.</p>
 
 <p>Aryeh’s music makes it clear that he, like many rappers before him, is locked into a lifestyle he hates. The difference obviously lies in the fact that Aryeh feels limited by his surroundings in the sense that he has outgrown the simple safety of the suburbs rather than finding himself stuck in poverty, selling drugs, etc. His music is eccentric and mixes the three genres mentioned above with ease, switching between capable rapping and silky singing. Suburban Destinisea is his first official project, and it opens with Aryeh spitting monotone raps over a snappy kick-snare on “Spectrum.” Listeners quickly come across the line “Cause I ain’t really have a story/Somehow I just got a chance.” Iit manages to encapsulate life in the suburbs in a few words. Many kids (hand up) who grew up in the suburbs got there because of the work their parents did, leaving them without much of a backstory but with an excellent chance to make something of themselves.</p> 
