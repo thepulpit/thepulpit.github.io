@@ -2,7 +2,7 @@
 published: true
 header-img: img/wopheader.jpg
 layout: post
-date: {}
+date: 2017-01-07T00:00:00.000Z
 title: Sinister - Lil Wop
 group: featured
 subtitle: 'Taking his cues from Gucci Mane, the protégé delivers a slapper'
