@@ -2,7 +2,7 @@
 published: true
 header-img: img/jayheader.jpg
 layout: post
-date: 2018-01-07T00:00:00.000Z
+date: 2018-01-04T00:00:00.000Z
 group: featured
 subtitle: The Maryland spitter comes through with one of 2017's best
 categories: albums
