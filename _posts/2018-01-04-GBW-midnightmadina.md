@@ -1,6 +1,6 @@
 ---
 published: true
-header-img: img/waitheruheader.jpg
+header-img: img/watiheruheader.jpg
 layout: post
 date: 2017-01-04T00:00:00.000Z
 title: GodBodyWati - Midnight Madina
