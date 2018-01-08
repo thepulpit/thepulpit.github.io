@@ -1,7 +1,7 @@
 ---
 header-img: img/jhene-aiko.jpg
 layout: post
-date: {}
+date: 2017-11-05T00:00:00.000Z
 title: Jhené Aiko - Trip
 subtitle: A deep dive into the mind of Jhené Aiko
 categories: albums
