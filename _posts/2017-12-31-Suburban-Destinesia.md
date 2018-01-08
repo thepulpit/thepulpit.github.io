@@ -2,7 +2,7 @@
 published: true
 header-img: img/jelaniARheader.jpg
 layout: post
-date: 18-01-04
+date: 2018-01-04T00:00:00.000Z
 title: Jelani Aryeh- Suburban Destinesia
 subtitle: The 17-year-old skillfully fuses genres on his first project
 categories: albums
