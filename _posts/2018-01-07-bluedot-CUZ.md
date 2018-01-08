@@ -2,7 +2,7 @@
 published: true
 header-img: img/CUZheader.jpg
 layout: post
-date: 2017-01-07T00:00:00.000Z
+date: 2018-01-07T00:00:00.000Z
 title: Blue Dot - CUZ Lightyear
 subtitle: Mixtape highlight from an Atlanta upstart
 categories: songs
