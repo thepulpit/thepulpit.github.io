@@ -76,12 +76,7 @@ h6 {
 a {
   color: #181818;
 }
-a:hover,
-a:focus {
-  color: #E0162E;
-  text-decoration: none;
-  cursor: pointer;
-}
+
 a img:hover,
 a img:focus {
 
@@ -210,9 +205,7 @@ a img.Logo:hover{
 }
 
 /* On mouse-over, add a deeper shadow */
-.card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
+
 
 /* Add some padding inside the card container */
 .card-container {
@@ -318,9 +311,7 @@ form.search {
 .Listing-Page .Posts{
     flex: 0 0 67%;
 }
-.Local-Nav a:hover, .Local-Nav button:hover{
-    color: #E0162E;
-}
+
 .holder{
   position: relative;
   height: 100%;
@@ -360,6 +351,12 @@ form.search {
 }
 
 @media only screen and (min-width: 768px) {
+  .Local-Nav a:hover, .Local-Nav button:hover{
+    color: #E0162E;
+  }
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
   .navbar-custom {
     background: transparent;
     border-bottom: 1px solid transparent;
@@ -450,6 +447,7 @@ form.search {
   color: #f2f4f4;
 }
 @media only screen and (min-width: 768px) {
+
   .intro-header .site-heading,
   .intro-header .post-heading,
   .intro-header .page-heading {
@@ -503,6 +501,12 @@ form.search {
   color: #f2f4f4;
 }
 @media only screen and (min-width: 768px) {
+  a:hover,
+  a:focus {
+    color: #E0162E;
+    text-decoration: none;
+    cursor: pointer;
+  }
   .intro-header .post-heading h1 {
     font-size: 55px;
   }
@@ -712,13 +716,14 @@ form .row:first-child .floating-label-form-group {
   .search .No-BG{
     display: block;
   }
+  .pager li > a:hover,
+  .pager li > a:focus {
+    color: #f2f4f4;
+    background-color: #E0162E;
+    border: 1px solid #E0162E;
+  }
 }
-.pager li > a:hover,
-.pager li > a:focus {
-  color: #f2f4f4;
-  background-color: #E0162E;
-  border: 1px solid #E0162E;
-}
+
 .pager .disabled > a,
 .pager .disabled > a:hover,
 .pager .disabled > a:focus,
