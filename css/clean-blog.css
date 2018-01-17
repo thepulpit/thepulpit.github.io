@@ -551,6 +551,12 @@ form.search {
   .post-preview > a > .post-title {
     font-size: 36px;
   }
+  .pager li > a:hover,
+  .pager li > a:focus {
+    color: #f2f4f4;
+    background-color: #E0162E;
+    border: 1px solid #E0162E;
+  }
 }
 .section-heading {
   font-size: 36px;
@@ -716,12 +722,7 @@ form .row:first-child .floating-label-form-group {
   .search .No-BG{
     display: block;
   }
-  .pager li > a:hover,
-  .pager li > a:focus {
-    color: #f2f4f4;
-    background-color: #E0162E;
-    border: 1px solid #E0162E;
-  }
+
 }
 
 .pager .disabled > a,
