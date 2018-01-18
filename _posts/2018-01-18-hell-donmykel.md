@@ -1,10 +1,10 @@
 ---
-published: false
+published: true
 header-img: img/donhellheader1.jpg
 layout: post
 date: 2018-01-18T00:00:00.000Z
 title: Don Mykel - Hell On Earth
-subtitle: A wintry track from a New York spitter
+subtitle: A wintry mix from the New York spitter
 categories: songs
 thumbnail: /img/thumbnail/donhellthumb
 ---
