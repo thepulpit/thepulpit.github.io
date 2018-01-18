@@ -146,7 +146,12 @@ hr.small {
   font-weight: normal;
   letter-spacing: 1px;
 }
-
+  a:hover,
+  a:focus {
+    color: #E0162E;
+    text-decoration: none;
+    cursor: pointer;
+  }
 .Logo{
   width: 300px;
 }
@@ -507,12 +512,7 @@ form.search {
   color: #f2f4f4;
 }
 @media only screen and (min-width: 768px) {
-  a:hover,
-  a:focus {
-    color: #E0162E;
-    text-decoration: none;
-    cursor: pointer;
-  }
+
   .intro-header .post-heading h1 {
     font-size: 55px;
   }
@@ -520,6 +520,17 @@ form.search {
     font-size: 30px;
   }
 }
+
+@media only screen and (min-width: 768px) and (max-width: 768px){
+  .Blogport .Listing-Page {
+    display: block;
+  }
+  .Blogport .Listing-Page .Local-Nav {
+    margin-bottom: 1rem;
+    max-width: 243px;
+  }
+}
+
 .post-preview > a {
   color: #404040;
 }
@@ -706,6 +717,7 @@ form .row:first-child .floating-label-form-group {
   .Header .navbar-collapse ul li{
     display: block;
     margin: auto;
+    text-align: center;
   }
   .Header .navbar-toggle{
     margin-right: 0;
