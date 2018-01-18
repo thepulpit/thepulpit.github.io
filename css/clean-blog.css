@@ -110,6 +110,14 @@ blockquote p {
   width: 100%;
   justify-content: space-between;
 }
+.ThreeColumn.Posts{
+  justify-content: left;
+  position: relative;
+}
+.ThreeColumn.Posts .card {
+  margin-right: 0.8%;
+}
+
 .ThreeColumn .Column{
   flex: 0 0 32.5%;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
