@@ -340,9 +340,7 @@ form.search {
   nav .nav.navbar-nav:not(.navbar-right){
     max-width: 360px;
   }
-  nav .nav.navbar-nav li{
-    float: right;
-  }
+
 }
 @media (min-width: 1300px){
   .container{
