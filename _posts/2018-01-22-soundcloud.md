@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 header-img: img/scheader.png
 layout: post
 date: 2018-01-22T00:00:00.000Z
@@ -18,4 +18,3 @@ thumbnail: /img/thumbnail/scthumb.png
 <p><strong>Get unlimited cell data- </strong>SoundCloud will suck the life out of your data plan. Either live somewhere with constant WiFi connectivity or get unlimited data.</p>
 <p>The rest is mostly different strokes for different folks. I have no advice about uploading or getting your art more exposure because I don&rsquo;t make music. But for listeners looking to take better advantage of what this platform offers, hopefully these tips are a good start. This seems as good a time as any to point out nearly every song, artist, and project featured here can be found on SoundCloud or popular streaming platforms like Apple Music and Spotify. As a last word of advice, don&rsquo;t get intimidated. It sounds like stupid advice, but there&rsquo;s so much crap out there that it might seem hard to find something you enjoy. But, that&rsquo;s both the beauty and the curse of SoundCloud&ndash;there&rsquo;s something for everyone.</p>
 <p>&nbsp;</p>
-
