@@ -1,6 +1,6 @@
 ---
 published: true
-header-img: img/scheader.png
+header-img: img/cloudheader.png
 layout: post
 date: 2018-01-22T00:00:00.000Z
 title: How To Use SoundCloud
