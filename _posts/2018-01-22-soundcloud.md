@@ -1,13 +1,13 @@
 ---
 published: true
-header-img: img/cloudheader.png
+header-img: img/cloudheader.jpg
 layout: post
 date: 2018-01-22T00:00:00.000Z
 title: How To Use SoundCloud
 group: featured
 subtitle: An easy way to expand your musical horizons
 categories: thoughts
-thumbnail: /img/thumbnail/scthumb.png
+thumbnail: /img/thumbnail/cloudheader.png
 ---
 <p>As someone who uses SoundCloud to find and listen to much of what is featured both on this site and in my personal rotation, I often get asked how to best use the app. There&rsquo;s a certain perception out there that, because of the mainstream exposure of &ldquo;SoundCloud rap,&rdquo; all the music on the platform is similarly amateurish and mostly unlistenable. That&rsquo;s not quite true, and SoundCloud can be an extremely interesting and fruitful place to find music. Plenty of people use it to upload horrendous music nobody deserves to hear, but it&rsquo;s also a breeding ground for creativity that was never available during any other era in music history. Everyone&rsquo;s sound suddenly gets a platform, and the creativity usually rises through the noise to the top. Here are some of my tips for taking advantage of SoundCloud.</p>
 <p><strong>Follow artists you like- </strong>This seems obvious, but just because an artist has an established mainstream presence does not mean they shy away from SoundCloud. Drake is a good example, as the OVO account uploaded most of his work along with bunch of loosies and freestyles several years ago (as well as releases from other OVO signees). Most official releases and albums from mainstream artists are likely behind a paywall, but you can still find some forgotten tracks or remixes hanging around. Also, lots of recently emerged artists got their starts on SoundCloud not long ago and haven&rsquo;t gotten much of their music to streaming services yet. SoundCloud is the place to hear those forgotten tracks along with new releases that will pop up in your feed if you follow the artist.</p>
