@@ -3,7 +3,7 @@ published: true
 header-img: img/scheader.png
 layout: post
 date: 2018-01-22T00:00:00.000Z
-title: How to use SoundCloud
+title: How To Use SoundCloud
 group: featured
 subtitle: An easy way to expand your musical horizons
 categories: thoughts
