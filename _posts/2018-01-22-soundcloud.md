@@ -2,7 +2,7 @@
 published: true
 header-img: img/cloudheader.jpg
 layout: post
-date: 2018-01-22T00:00:00.000Z
+date: {}
 title: How To Use SoundCloud
 group: featured
 subtitle: An easy way to expand your musical horizons
@@ -17,4 +17,4 @@ thumbnail: /img/thumbnail/cloudheader.png
 <p><strong>Save projects you want to listen to- </strong>Don&rsquo;t feel forced to listen to a whole album the moment you come across it. Throw it into your favorites, come back to it later, decide if you like it. The same goes for songs, which sometimes take several listens to either stick or fall out of favor. There&rsquo;s no harm in unfavoriting something.</p>
 <p><strong>Get unlimited cell data- </strong>SoundCloud will suck the life out of your data plan. Either live somewhere with constant WiFi connectivity or get unlimited data.</p>
 <p>The rest is mostly different strokes for different folks. I have no advice about uploading or getting your art more exposure because I don&rsquo;t make music. But for listeners looking to take better advantage of what this platform offers, hopefully these tips are a good start. This seems as good a time as any to point out nearly every song, artist, and project featured here can be found on SoundCloud or popular streaming platforms like Apple Music and Spotify. As a last word of advice, don&rsquo;t get intimidated. It sounds like stupid advice, but there&rsquo;s so much crap out there that it might seem hard to find something you enjoy. But, that&rsquo;s both the beauty and the curse of SoundCloud&ndash;there&rsquo;s something for everyone.</p>
-<p>&nbsp;</p>
+
