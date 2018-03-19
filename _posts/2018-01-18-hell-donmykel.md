@@ -1,6 +1,6 @@
 ---
 published: true
-header-img: img/donhellheader1.jpg
+header-img: img/plptheader.PNG
 layout: post
 date: 2018-01-18T00:00:00.000Z
 title: Don Mykel - Hell On Earth
