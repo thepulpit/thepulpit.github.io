@@ -1,6 +1,6 @@
 ---
 published: true
-header-img: img/darthvaderheader.jpg
+header-img: img/plptheader.PNG
 layout: post
 date: 2018-02-20T00:00:00.000Z
 title: AD - Darth Vader
