@@ -1,6 +1,6 @@
 ---
 published: true
-header-img: img/CUZheader.jpg
+header-img: img/plptheader.PNG
 layout: post
 date: 2018-01-07T00:00:00.000Z
 title: CUZ Lightyear - Blue Dot
