@@ -1,6 +1,6 @@
 ---
 published: true
-header-img: img/juanheader.jpg
+header-img: img/plptheader.PNG
 layout: post
 date: 2017-12-31T00:00:00.000Z
 title: Hoodrich Pablo Juan - South Dark
