@@ -3,7 +3,7 @@ published: true
 header-img: img/wopheader.jpg
 layout: post
 date: 2018-01-07T00:00:00.000Z
-title: Sinister - Lil Wop
+title: Lil Wop - Sinister
 group: featured
 subtitle: 'Taking his cues from Gucci Mane, the protégé delivers'
 categories: songs
