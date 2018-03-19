@@ -1,6 +1,6 @@
 ---
 published: true
-header-img: img/hollieheader.jpg
+header-img: img/plptheader.PNG
 layout: post
 date: 2018-02-13T00:00:00.000Z
 title: Hollie Cook - Vessel of Love
