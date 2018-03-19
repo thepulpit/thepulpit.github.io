@@ -1,6 +1,6 @@
 ---
 published: true
-header-img: img/cosmoheader.jpg
+header-img: img/plptheader.PNG
 layout: post
 date: 2018-01-04T00:00:00.000Z
 title: Cosmo Pyke - Just Cosmo
