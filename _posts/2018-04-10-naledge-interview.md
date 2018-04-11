@@ -3,7 +3,7 @@ published: true
 header-img: img/IMG_8947 2.jpg
 layout: post
 date: 2018-04-10T00:00:00.000Z
-title: An Interview with Naledge
+title: An Exclusive Interview with Naledge
 group: featured
 subtitle: The hip-hop veteran ponders his next chapter
 categories: artists
