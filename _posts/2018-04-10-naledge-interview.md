@@ -7,7 +7,7 @@ title: An Interview with Naledge
 group: featured
 subtitle: The hip-hop veteran ponders his next chapter
 categories: artists
-thumbnail: /img/thumbnail/naledgethumb.jpg.jpg
+thumbnail: /img/thumbnail/naledgethumb.jpg
 ---
 <p><em>How does one go from rapper to aspiring professor? Jabari &ldquo;Naledge&rdquo; Evans grew up on the South Side of Chicago and matriculated at the University of Pennsylvania. He formed the hip-hop duo Kidz in the Hall with Michael &ldquo;Double-O&rdquo; Aguilar while at Penn during the early 2000s. In recent years, Evans returned to Chicago, enrolling at Northwestern University as a full-time graduate student in the department of communication studies while overseeing the growth of his non-profit organization The Brainiac Project, which provides South Side youth free access to recording studios and mentorship. I sat down with Evans, currently in his second year as a graduate student, to discuss his studies and non-profit work as well as his thoughts on hip-hop, youth and the music industry. &nbsp;</em></p>
 <p><em>This interview has been edited and condensed</em></p>
