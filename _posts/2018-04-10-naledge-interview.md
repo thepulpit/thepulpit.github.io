@@ -1,6 +1,6 @@
 ---
 published: true
-header-img: img/IMG_8947 2.jpg
+header-img: img/
 layout: post
 date: 2018-04-10T00:00:00.000Z
 title: An Interview with Naledge
