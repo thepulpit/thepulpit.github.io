@@ -1,6 +1,6 @@
 ---
 published: true
-header-img: img/plptheader.PNG
+header-img: img/naledgeheader.jpg
 layout: post
 date: 2018-04-10T00:00:00.000Z
 title: An Interview with Naledge
