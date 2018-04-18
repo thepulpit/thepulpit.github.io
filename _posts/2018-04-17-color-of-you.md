@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 header-img: img/plptheader.PNG
 layout: post
-date: 2018-04-18T00:00:00.000Z
+date: 2018-04-17T00:00:00.000Z
 title: Alina Baraz - The Color of You
 group: featured
 subtitle: The R&B songstress returns after almost 3 years between releases
