@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 header-img: img/plptheader.PNG
 layout: post
-date: 2018-06-06T00:00:00.000Z
+date: 2018-06-15T00:00:00.000Z
 title: Caleb Brown - The Social Experiment
 subtitle: The 18-year-old from Louisiana begins to find his voice
 categories: albums
