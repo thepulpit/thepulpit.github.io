@@ -6,7 +6,7 @@
     "author": "The Pulpit",
     "license": "MIT",
     "devDependencies": {
-        "grunt": "^0.4.5",
+        "grunt": "^1.5.2",
         "grunt-banner": "~0.2.3",
         "grunt-contrib-concat": "^1.0.1",
         "grunt-contrib-less": "~0.11.4",
